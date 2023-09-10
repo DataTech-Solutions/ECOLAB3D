@@ -35,7 +35,7 @@ Provide trend charts and benchmark performance across sites and assets to enable
 Powered by ECOLAB3D™**
 
 Water treatment monitoring is an essential part of your operation. With Ecolab’s Water Quality Intelligence powered by ECOLAB3D, you can see critical information, at site, asset, or enterprise scale. Our advanced industrial water treatment technology helps identify and target water quality issues and underperforming assets, so you can take quick action to conserve water, save energy and cut costs. 
-<iframe width="560" height="315" src="[https://www.youtube.com/watch?v=Es8c3rju7tE&t=184s]" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Es8c3rju7tE?si=hb2qPUdy-JWMUE8s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 
