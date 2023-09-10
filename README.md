@@ -1,5 +1,6 @@
 **![IIOT Platform](https://github.com/DataTech-Solutions/ECOLAB3D/assets/140796709/99dfd58e-6158-4a05-b5eb-2838792cd8d7)
 Ecolab Launches ECOLAB3D™ Cloud Platform for Enterprise-Wide Industrial Water Management**
+
 https://www.ecolab.com/nalco-water/expertise-and-innovation/ecolab3d-iiot-platform
 ECOLAB3DTM IIOT Platform: Intelligent Water Performance Insights – Ability to visualize water performance issues at the enterprise, site and asset levels to help achieve sustainability, productivity and profitability goals.
 
