@@ -8,8 +8,7 @@ ECOLAB3D is a secure, cloud-based, IIoT platform that distills data in real time
 
 ECOLAB3D is a cloud-based digital platform, developed with support from Microsoft and Accenture, that collects data from Ecolab’s process control and monitoring systems, automation tools and other systems to create real-time alerts, optimize plant operations and benchmark performance across company sites. The platform is designed to enable customized solutions that address the specific business needs of customers, from food and beverage and power plants to manufacturing sites and hospitals.
 
-
-https://www.youtube.com/watch?v=6mQ-hfvxI_o&t=55s
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Es8c3rju7tE?si=SMmE7v2EOnSnaQpu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **Turn Asset Analytics into Action**
 Enterprise-level visibility means that you’ll be better equipped with real-time insight into your operations. An asset tree will help you sort and consolidate information from sites and assets, while artificial intelligence and algorithms will enable you to detect any problems, boost optimization and predict upcoming maintenance needs. With ECOLAB3D, it’s all stored and managed in the cloud, for secure information that’s accessible on any connected device. ECOLAB3D uses predictive analytics and machine learning, backed by a global team of on-site and remote experts, to help companies optimize their operations and reduce their environmental footprint at the same time. 
