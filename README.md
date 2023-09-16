@@ -3,6 +3,7 @@
 
 
 
+[Water Quality Intelligence Architecture Final.pptx](https://github.com/DataTech-Solutions/ECOLAB3D/files/12640360/Water.Quality.Intelligence.Architecture.Final.pptx)
 
 
 **Ecolab Launches ECOLAB3D™ Cloud Platform for Enterprise-Wide Industrial Water Management**
