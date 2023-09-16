@@ -62,3 +62,9 @@ By combining real-time monitoring, advanced predictive analytics, and 24/7 exper
 https://www.youtube.com/watch?v=QDEsxBILT3c&t=83s
 
 https://www.youtube.com/watch?v=6mQ-hfvxI_o&t=55s
+![TechPlatform Actuals_Target](https://github.com/DataTech-Solutions/ECOLAB3D/assets/140796709/967faa19-6b08-42ae-8c08-b28bde03beb4)
+
+
+![Technology Quarterly Business](https://github.com/DataTech-Solutions/ECOLAB3D/assets/140796709/3fcc7cba-cf9a-40aa-8f35-dafe768c6e0f)
+
+
