@@ -2,7 +2,7 @@
 Ecolab Launches ECOLAB3D™ Cloud Platform for Enterprise-Wide Industrial Water Management**
 
 https://www.ecolab.com/nalco-water/expertise-and-innovation/ecolab3d-iiot-platform
-ECOLAB3DTM IIOT Platform: Intelligent Water Performance Insights – Ability to visualize water performance issues at the enterprise, site and asset levels to help achieve sustainability, productivity and profitability goals.
+ECOLAB3D IIOT Platform: Intelligent Water Performance Insights – Ability to visualize water performance issues at the enterprise, site and asset levels to help achieve sustainability, productivity and profitability goals.
 
 ECOLAB3D is a secure, cloud-based, IIoT platform that distills data in real time into actionable insights.  It uses advanced algorithms and predictive analytics that enable quick detection of system deviations so you can take action to address issues.  When combined with our industry-leading expertise, ECOLAB3D digital services help businesses improve their total water management strategy for more efficient operations.
 
