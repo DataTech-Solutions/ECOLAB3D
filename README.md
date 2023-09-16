@@ -1,9 +1,7 @@
 
 ![IIOT Platform](https://github.com/DataTech-Solutions/ECOLAB3D/assets/140796709/39f2a28a-cdbb-45bf-8bff-b6c5259a7c73)
 
-
-
-[Water Quality Intelligence Architecture Final.pptx](https://github.com/DataTech-Solutions/ECOLAB3D/files/12640360/Water.Quality.Intelligence.Architecture.Final.pptx)
+![Architecture](https://github.com/DataTech-Solutions/ECOLAB3D/assets/140796709/673219ba-5289-4ace-a199-255c25707af7)
 
 
 **Ecolab Launches ECOLAB3D™ Cloud Platform for Enterprise-Wide Industrial Water Management**
@@ -13,10 +11,6 @@ ECOLAB3D IIOT Platform: Intelligent Water Performance Insights – Ability to vi
 
 ECOLAB3D is a secure, cloud-based, IIoT platform that distills data in real time into actionable insights.  It uses advanced algorithms and predictive analytics that enable quick detection of system deviations so you can take action to address issues.  When combined with our industry-leading expertise, ECOLAB3D digital services help businesses improve their total water management strategy for more efficient operations.
 
-
-ECOLAB3D is a cloud-based digital platform, developed with support from Microsoft and Accenture, that collects data from Ecolab’s process control and monitoring systems, automation tools and other systems to create real-time alerts, optimize plant operations and benchmark performance across company sites. The platform is designed to enable customized solutions that address the specific business needs of customers, from food and beverage and power plants to manufacturing sites and hospitals.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Es8c3rju7tE?si=SMmE7v2EOnSnaQpu" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 **Turn Asset Analytics into Action**
 Enterprise-level visibility means that you’ll be better equipped with real-time insight into your operations. An asset tree will help you sort and consolidate information from sites and assets, while artificial intelligence and algorithms will enable you to detect any problems, boost optimization and predict upcoming maintenance needs. With ECOLAB3D, it’s all stored and managed in the cloud, for secure information that’s accessible on any connected device. ECOLAB3D uses predictive analytics and machine learning, backed by a global team of on-site and remote experts, to help companies optimize their operations and reduce their environmental footprint at the same time. 
@@ -60,9 +54,6 @@ OMNI™ is a comprehensive IoT asset performance management program that provide
 
 By combining real-time monitoring, advanced predictive analytics, and 24/7 expert support, OMNI moves you from a reactive to a proactive state to help minimize operating costs. It provides unmatched visibility to help predict and prevent operational issues, delivering reliable performance while enhancing your asset management capabilities and improving asset reliability.
 
-https://www.youtube.com/watch?v=QDEsxBILT3c&t=83s
-
-https://www.youtube.com/watch?v=6mQ-hfvxI_o&t=55s
 ![TechPlatform Actuals_Target](https://github.com/DataTech-Solutions/ECOLAB3D/assets/140796709/967faa19-6b08-42ae-8c08-b28bde03beb4)
 
 
