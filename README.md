@@ -1,7 +1,7 @@
 
 ![IIOT Platform](https://github.com/DataTech-Solutions/ECOLAB3D/assets/140796709/39f2a28a-cdbb-45bf-8bff-b6c5259a7c73)
 
-![Architecture](https://github.com/DataTech-Solutions/ECOLAB3D/assets/140796709/673219ba-5289-4ace-a199-255c25707af7)
+
 ![ECOLAB3D Architecture](https://github.com/DataTech-Solutions/ECOLAB3D/assets/140796709/002fac47-768a-479d-8833-357a612dd824)
 
 
