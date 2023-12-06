@@ -55,6 +55,10 @@ OMNI™ is a comprehensive IoT asset performance management program that provide
 
 By combining real-time monitoring, advanced predictive analytics, and 24/7 expert support, OMNI moves you from a reactive to a proactive state to help minimize operating costs. It provides unmatched visibility to help predict and prevent operational issues, delivering reliable performance while enhancing your asset management capabilities and improving asset reliability.
 
+**SQL Dimension/Fact Tables**
+![image](https://github.com/DataTech-Solutions/ECOLAB3D/assets/140796709/9bc98ed1-d354-4c80-8c60-eefe61e1a8d7)
+
+
 ![TechPlatform Actuals_Target](https://github.com/DataTech-Solutions/ECOLAB3D/assets/140796709/967faa19-6b08-42ae-8c08-b28bde03beb4)
 
 
