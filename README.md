@@ -58,6 +58,7 @@ By combining real-time monitoring, advanced predictive analytics, and 24/7 exper
 **SQL Dimension/Fact Tables**
 ![image](https://github.com/DataTech-Solutions/ECOLAB3D/assets/140796709/9bc98ed1-d354-4c80-8c60-eefe61e1a8d7)
 
+**Power BI ECOLAB3D Technology Revenue by Country Cluster Screenshots**
 
 ![TechPlatform Actuals_Target](https://github.com/DataTech-Solutions/ECOLAB3D/assets/140796709/967faa19-6b08-42ae-8c08-b28bde03beb4)
 
